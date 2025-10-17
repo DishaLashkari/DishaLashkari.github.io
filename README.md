@@ -6,3 +6,4 @@
 ###### h6 Heading
 
 **This is bold text**
+**This is bold text**
